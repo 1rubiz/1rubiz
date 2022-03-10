@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @1rubiz
-- 👀 I’m interested in ...learning coding ,anime,making friends ✌🏻
+- 👀 I’m interested in ...learning coding and making friends ✌🏻
 - 🌱 I’m currently learning ...web development 
 - 💞️ I’m looking to collaborate on a web development projects 
 - 📫 You can reach me through my email address : 1izekorruby@gmail.com
