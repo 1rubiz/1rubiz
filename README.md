@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @1rubiz
-- 👀 I’m interested in ...learning coding and making friends ✌🏻
-- 🌱 I’m currently learning ...web development 
+- 👋 Hi, I’m Ruby
+- 👀 I’m interested in ...learning computer programming and making friends ✌🏻
+- 🌱 I’m currently learning ...web development and ui/ux design
 - 💞️ I’m looking to collaborate on a web development projects 
 - 📫 You can reach me through my email address : 1izekorruby@gmail.com
 
