@@ -12,7 +12,7 @@
   🌱 Currently diving deeper into **Data Engineering, ETL pipelines, and cloud databases**.<br>
   🔍 Passionate about **making sense of complex data and optimizing systems** for performance and reliability.<br>
   🚀 I still enjoy **frontend development**, but my focus is shifting towards **data-driven solutions**.<br>
-  📂 Check out my projects at <a href="https://portfolio-rubiz.vercel.app">my portfolio</a>.<br>
+  📂 Check out my projects at <a href="https://portfolio-rubiz.vercel.app">portfolio-rubiz.vercel.app</a>.<br>
   💬 Ask me about **data pipelines, backend systems, or frontend integrations**.<br>
   📫 Reach me at <b>1izekorruby@gmail.com</b>.
 </p>
