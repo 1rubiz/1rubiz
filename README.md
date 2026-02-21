@@ -1,19 +1,27 @@
 <h1 align="center">Hi 👋, I'm Ruby Izekor</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">Frontend Developer turned Data Engineering Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1rubiz" alt="1rubiz" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=1rubiz" alt="1rubiz" />
+  </a>
+</p>
 
-- 🌱 I’m currently learning **ThreeJS and Spline**
-
-- 👨‍💻 All of my projects are available at [https://1izekorruby.wixsite.com/my-site](https://1izekorruby.wixsite.com/my-site)
-
-- 💬 Ask me about **Frontend Web development**
-
-- 📫 How to reach me **1izekorruby@gmail.com**
+<p align="left">
+  💻 I build robust data pipelines and scalable web applications.<br>
+  🌱 Currently diving deeper into **Data Engineering, ETL pipelines, and cloud databases**.<br>
+  🔍 Passionate about **making sense of complex data and optimizing systems** for performance and reliability.<br>
+  🚀 I still enjoy **frontend development**, but my focus is shifting towards **data-driven solutions**.<br>
+  📂 Check out my projects at <a href="https://portfolio-rubiz.vercel.app">my portfolio</a>.<br>
+  💬 Ask me about **data pipelines, backend systems, or frontend integrations**.<br>
+  📫 Reach me at <b>1izekorruby@gmail.com</b>.
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/izekor-ruby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="izekor-ruby" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/izekor-ruby" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="izekor-ruby" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
